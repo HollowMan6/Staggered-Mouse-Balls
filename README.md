@@ -23,7 +23,7 @@
 
 [项目依赖](../../network/dependencies)
 
-[示例网页](StaggeredMouse/index.html) 预览效果：http://practice.hollowman.ml/Staggered%20Mouse%20Balls/StaggeredMouse/
+[示例网页](StaggeredMouse/index.html) 预览效果：http://practice.hollowman.ml/🔵⚪🔴%20Staggered%20Mouse%20Balls/StaggeredMouse/
 
 观看在我的主页上的应用效果：https://hollowman6.github.io/ 
 
@@ -53,7 +53,7 @@ This project is derived from https://github.com/chenglou/react-motion#staggeredm
 
 [Project Dependencies](../../network/dependencies)
 
-[Example Page](StaggeredMouse/index.html) real-time watching: http://practice.hollowman.ml/Staggered%20Mouse%20Balls/StaggeredMouse/
+[Example Page](StaggeredMouse/index.html) real-time watching: http://practice.hollowman.ml/🔵⚪🔴%20Staggered%20Mouse%20Balls/StaggeredMouse/
 
 Watch the effect on my Home Page: https://hollowman6.github.io/ 
 
