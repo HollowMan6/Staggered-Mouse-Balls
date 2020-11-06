@@ -4,6 +4,7 @@
   "description": "Staggered balls that follow mouse moves. (多小球蹒跚跟随鼠标移动)",
   "main": "StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.js",
   "devDependencies": {
+    "@babel/core": "^7.7.0",
     "@babel/plugin-proposal-class-properties": "^7.7.0",
     "@babel/plugin-transform-modules-commonjs": "^7.7.0",
     "@babel/preset-env": "^7.7.1",
