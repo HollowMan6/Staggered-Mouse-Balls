@@ -19,15 +19,6 @@ module.exports = {
         exclude: /build|lib|bower_components|node_modules/,
         loader: 'babel-loader'
       },
-      {
-        test: /\.css$/,
-        use: ['style-loader', 'css-loader']
-      },
-      {
-        test: /\.jsx?$/,
-        loader: 'eslint-loader',
-        exclude: /build|lib|bower_components|node_modules/
-      },
     ],
   },
   resolve: {
