@@ -1,5 +1,5 @@
 import React from 'react';
-import {StaggeredMotion, spring, presets} from 'react-motion';
+import {StaggeredMotion, spring, presets} from '@serprex/react-motion';
 import range from 'lodash.range';
 
 export default class StaggeredMouse extends React.Component { // lgtm [js/react/unused-or-undefined-state-property]

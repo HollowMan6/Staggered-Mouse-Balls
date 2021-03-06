@@ -25,7 +25,7 @@
   "scripts": {
     "start": "node server.js",
     "build": "webpack",
-    "lint": "eslint .",
+    "lint": "lint-staged && eslint . --fix && webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "eslintConfig": {
