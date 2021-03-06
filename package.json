@@ -28,7 +28,7 @@
     "build": "webpack",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "uglify": "uglifyjs StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.js -c toplevel,sequences=false -m --mangle-props -o StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.min.js"
+    "uglify": "uglifyjs StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.js -c toplevel,sequences=false -m -o StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.min.js"
   },
   "eslintConfig": {
     "plugins": [
@@ -50,7 +50,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && eslint . --fix && webpack && uglifyjs StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.js -c toplevel,sequences=false -m --mangle-props -o StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.min.js"
+      "pre-commit": "lint-staged && eslint . --fix && webpack && uglifyjs StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.js -c toplevel,sequences=false -m -o StaggeredMouse/StaggeredMouse/Staggered-Mouse-Balls.min.js"
     }
   },
   "lint-staged": {
