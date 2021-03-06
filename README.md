@@ -1,6 +1,7 @@
 # Staggered Mouse Balls
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/Staggered-Mouse-Balls)](../../graphs/commit-activity)
+[![release-date](https://img.shields.io/github/release-date/HollowMan6/Staggered-Mouse-Balls)](https://github.com/HollowMan6/Staggered-Mouse-Balls/releases)
 ![Node.js Package](https://github.com/HollowMan6/Staggered-Mouse-Balls/workflows/Node.js%20Package/badge.svg)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
